@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# extra files and directories
+student-resources/
+kaggle-movies-data/
+
 # C extensions
 *.so
 
